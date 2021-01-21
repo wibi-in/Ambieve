@@ -220,6 +220,8 @@ const Form = () => {
 									{" "}
 									{dataContact.data.contact[0].details.email}
 								</a>
+								<br/>
+								<br/>
 							</div>
 						</div>
 						<div className="col-lg-4 col-md-6 md-mt-5">
@@ -233,6 +235,8 @@ const Form = () => {
 								>
 									{dataContact.data.contact[0].details.phone}
 								</a>
+								<br/>
+								<br/>
 							</div>
 						</div>
 					</div>

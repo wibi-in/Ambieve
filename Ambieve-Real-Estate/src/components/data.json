@@ -179,11 +179,6 @@
 						"sub_title": "Have A Look At What Our Clients Say",
 						"member": [
 							{
-								"name": "Durgesh Jaiswal",
-								"position": "Businessman",
-								"description": "Ambieve Real Estate agents are very professional and have good knowledge of the market. I myself have invested through them and have earned a lucrative return on my investment."
-							},
-							{
 								"name": "Kalpesh Patel",
 								"position": "Vice President, Sumitomo Chemicals Ltd.",
 								"description": "Excellent team and great returns! I would strongly recommend Ambieve Real Estate to anyone who wants to get started with investing in Real Estate with small capital."
@@ -192,6 +187,11 @@
 								"name": "Jimmy Singh",
 								"position": "Software Developer, Publicis Sapient",
 								"description": "Ambieve Real Estate is a great platform for young investors to invest thier savings and begin their journey towards financial independence."
+							},
+							{
+								"name": "Durgesh Jaiswal",
+								"position": "Businessman",
+								"description": "Ambieve Real Estate agents are very professional and have good knowledge of the market. I myself have invested through them and have earned a lucrative return on my investment."
 							}
 						],
 						"anti_holder": [
@@ -200,9 +200,9 @@
 							"03"
 						],
 						"img_url": [
-							"images/testimonial/01.jpg",
 							"images/testimonial/kalpesh-patel.jpg",
-							"images/testimonial/jimmy-singh.jpg"
+							"images/testimonial/jimmy-singh.jpg",
+							"images/testimonial/durgesh-jaiswal-2.jpg"
 						]
 					},
 					"blogs": {
@@ -3128,7 +3128,7 @@
 						},
 						{
 							"title": "Buy, Rent or Lease",
-							"description": "We also help you buy, rent or lease a property for your personal/office use. Through our extensive Market Reach we try to get you the property at the best rate possible.",
+							"description": "We also help you buy, rent or lease a property for your personal/office use. With our extensive Market Reach we try to get you the best rate possible.",
 							"icon": "flaticon-price-tag"
 						},
 						{
